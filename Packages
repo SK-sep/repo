@@ -1,0 +1,623 @@
+Package: com.eska.over
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eska.over_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126470
+MD5sum: b9f9850f28f063e7e2149a585e1dcc2a
+SHA1: 8d66e602b77c553369edf756779ba471bf2a6ad9
+SHA256: 2fa0a2833a91cbd422ff768991bbab6807bc3e561ef0f48d13634d277da151db
+Section: Tweaks
+Description: Over
+Author: Eskaseptian
+Name: Over++
+
+Package: com.eskasaep.koloro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eskasaep.koloro_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126664
+MD5sum: 218d867941fabcd1d4bacd369a501d2f
+SHA1: 62764e143604293598c4f668f30ebb4587f50193
+SHA256: 30eb6d92c4f2dfbf1548feccc8801844e7a48b8e5ba7a550b126923f022589ca
+Section: Tweaks
+Description: Koloro
+Author: Eskaseptian
+Name: Koloro+
+
+Package: com.eskaseptiaian.vpnproxmasvip
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptiaian.vpnproxmasvip_0.0.1-3+debug_iphoneos-arm.deb
+Size: 8966
+MD5sum: c5d7da8dc201065303d013902a576f2a
+SHA1: 8deb4079cc57a10188a031c77356a060e3dea83e
+SHA256: 6b9c10ccba8015b2f94bb8a1835105c8fd1837cfcb7169f84713534d04a342b0
+Section: Tweaks
+Description: Unlock VIP,Remove Ads
+Author: eskaseptian
+Name: VPNProxyMasterVIP
+
+Package: com.eskaseptian.aiohack
+Version: 0.0.1-80+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 956
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.aiohack_0.0.1-80+debug_iphoneos-arm.deb
+Size: 269658
+MD5sum: 96e7dbfbdd681b6ab4a20ddb5823e68c
+SHA1: 871b750ab2293e2f00f3e473a18710f6cc2dfc86
+SHA256: edae53eba4b2fadd0dfae9bf57b077f463615e7c7e583acbd061eab4829c4d07
+Section: Tweaks
+Description: All in One Tweak Hack!!!
+Author: eskaseptian
+Name: AIOHack
+
+Package: com.eskaseptian.airmail
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.airmail_0.0.2-1+debug_iphoneos-arm.deb
+Size: 126466
+MD5sum: 4d18946a98123a3672c3d31aec8b2889
+SHA1: 29cd3dc8da4db3dc24309636a8da4e628eb51547
+SHA256: ad8e91ba51870204efe4a934ebe2593d7284d2828cdf45f2b8371a60acff3ddc
+Section: Tweaks
+Description: AirMailPremium (Need JB Detection Bypass tweak like Liberty Lite)
+Author: eskaseptian
+Name: AirMail Premium
+
+Package: com.eskaseptian.aprilhack
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.aprilhack_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6304
+MD5sum: c3b0a6c77a6e3738ccda83bce3445701
+SHA1: 67f025e6671324333d16185dec76925e47be9674
+SHA256: 5232c33da9d7f62a7a6bb1c426e20349e9a4986bd6a3a629a6a9169db5b70e5b
+Section: Tweaks
+Description: UNLOCK PRO!!
+Author: eskaseptian
+Name: AprilHack
+
+Package: com.eskaseptian.boompro
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 1040
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.boompro_0.0.2-1+debug_iphoneos-arm.deb
+Size: 160778
+MD5sum: 5130ffc0bce6460b9f73a80ab327adfe
+SHA1: 5a436fed783c4d30366fc4f5867e62bbf8b93dde
+SHA256: 1a65f8d9ced323728b94a767a61b6be7ed5274f0e1e97609ea49ea7f148f3dab
+Section: Tweaks
+Description: Unlock Premium Goes!!!
+Author: eskaseptian
+Name: BoomPro
+
+Package: com.eskaseptian.carbonhack
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.carbonhack_0.0.1-5+debug_iphoneos-arm.deb
+Size: 8398
+MD5sum: 638ea59f3915dac366558d8ca08254e7
+SHA1: de6de9378b9a6ad650441a81fe4e51c61e75dfb1
+SHA256: ba3fc17075debf0d1793fb56c047124944f8bf0bbcd9d6dbcf9f1120857b71ca
+Section: Tweaks
+Description: Carbon B&W Unlock all !!!
+Author: eskaseptian
+Name: CarbonB&W Hack
+
+Package: com.eskaseptian.dazzle
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 740
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.dazzle_0.0.1-2+debug_iphoneos-arm.deb
+Size: 127614
+MD5sum: c3bb822d3ec993fd025ddbaf491790a8
+SHA1: 260ff664774cc5b5e54d7717bae026c111970fd0
+SHA256: ea57d7f6b457a34612d5f8fe464bcc8338b614c56b361b2d4b9542e797191b5b
+Section: Tweaks
+Description: Dazzle Unclock PREMIUM and LifeTime Subscription
+Author: eskaseptian
+Name: Dazzle++
+
+Package: com.eskaseptian.emulsio
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.emulsio_0.0.1-4+debug_iphoneos-arm.deb
+Size: 7026
+MD5sum: 85416a9462d44c320c812b3b11ee2e38
+SHA1: 5cc51d6ef82518946235335f7f1234ce80e80d0d
+SHA256: 091d388db57a3781c7daf768a4bf0c9ece790180883b447a548645c030590b4d
+Section: Tweaks
+Description: Unlock PRO Version!
+Author: eskaseptian
+Name: EmulsioHack
+
+Package: com.eskaseptian.filterloop
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.filterloop_0.0.1-3+debug_iphoneos-arm.deb
+Size: 7078
+MD5sum: 9db69aac2fdf4453e473ad7acce67091
+SHA1: 86a8f0c8ea44a396d7dc75cf27b8a6e6ce0a0b76
+SHA256: ebce67ccb139bf189b70a22889fc3fd349368f16249787b2e61010c6625c2ed6
+Section: Tweaks
+Description: Unlock Premium Access
+Author: eskaseptian
+Name: Filterloop Hack
+
+Package: com.eskaseptian.firstvpn
+Version: 0.0.1-26+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.firstvpn_0.0.1-26+debug_iphoneos-arm.deb
+Size: 126354
+MD5sum: 14d0b07eae2d3e4d2de52be4a250fd69
+SHA1: 148241fed10ad14c82aa944a803e488e328fc637
+SHA256: 2ace5937fdb9059b4e5a60daaab45081a264e158868eb061ff28633598477079
+Section: Tweaks
+Description: FirstVPN UNLOCK to PREMIUM !
+Author: eskaseptian
+Name: FirstVPN PREMIUM
+
+Package: com.eskaseptian.focoshack
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.focoshack_0.0.1-2+debug_iphoneos-arm.deb
+Size: 126812
+MD5sum: 4ecdf55f4fe3c8f66948b384cc8726da
+SHA1: 08ee9a322600c1cdddbd836346e96f43abbc8349
+SHA256: 2fe3414d117c70d197df4b8822bdc1731eb9c3e1b6be9bb81faaf4e69544310b
+Section: Tweaks
+Description: FocosHack
+Author: eskaseptian
+Name: Focos Hack
+
+Package: com.eskaseptian.funimate
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.funimate_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126252
+MD5sum: 4fcf49c5f75188bb1befb9929666578c
+SHA1: 48ea19885a5e92fa5d5f95c50cd2cd871291073f
+SHA256: 75e875bde59ac48d4b391d40e327ad323efe20ba6c954d4ccc847ac30d691a19
+Section: Tweaks
+Description: FunimateHack (Unlock all Filter's)
+Author: eskaseptian
+Name: Funimate Hack
+
+Package: com.eskaseptian.giftoaster
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.giftoaster_0.0.1-2+debug_iphoneos-arm.deb
+Size: 126326
+MD5sum: cdf16618390bb4c87b7de69374b9077a
+SHA1: e535cb6d2687ece5ebd104349fa6b6210e1eeb6b
+SHA256: a3bb3e13d83e8a30d69d446c6fe54e90e4fa3fc4fa32cf909e2bfcfcfcd7b017
+Section: Tweaks
+Description: GIFToasterHack
+Author: eskaseptian
+Name: GIFToaster Hack
+
+Package: com.eskaseptian.hujicam
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 740
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.hujicam_0.0.1-2+debug_iphoneos-arm.deb
+Size: 127662
+MD5sum: a418354fb1b02300c76dc4168624fd65
+SHA1: 1666526dab873489ea3061f200021e81348310c4
+SHA256: 75591dd6cf2df603c29210c37cd87353a4f186752b899486ca8f0693169de013
+Section: Tweaks
+Description: HujiCamHack (Remove Ads and Add Extra Options)
+Author: eskaseptian
+Name: HujiCam Hack
+
+Package: com.eskaseptian.instalogo
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.instalogo_0.0.1-1+debug_iphoneos-arm.deb
+Size: 7068
+MD5sum: 0b24f998184f25bc7d19f7989ef47ec8
+SHA1: 79c63406d6f17e1cfa95c66f5389cc6d5707bc39
+SHA256: 1b28ed523cd157d4b853eb03cd17fbdc0421fc6e78c01fefb572642a414682ce
+Section: Tweaks
+Description: InstaLogo PREMIUM UNLOCK!
+Author: eskaseptian
+Name: InstaLogo PREMIUM
+
+Package: com.eskaseptian.kamuskupro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.kamuskupro_0.0.1-1+debug_iphoneos-arm.deb
+Size: 125796
+MD5sum: 37d4a807a25f54dae703c822b7f351b1
+SHA1: 39eb38075d5e666b6ab1ba9a100b411b40183dba
+SHA256: f31a0697ece3afc1317926472db5e8a412a9de74221bd9c2d7ea8b27ffce6770
+Section: Tweaks
+Description: KamuskuPRO
+Author: eskaseptian
+Name: Kamusku PRO
+
+Package: com.eskaseptian.kinemaster
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Eskaseptian
+Installed-Size: 740
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.kinemaster_0.0.1-1+debug_iphoneos-arm.deb
+Size: 127440
+MD5sum: 5db98843eb0021dfb7e07bf8cbd682a7
+SHA1: 3a4c69ac226a9fe092c2f3de12f01895a785386e
+SHA256: 5ff7728617ab1cb990c7714b707d3fae1b515fc0b771f2865bbd9d97ebebd344
+Section: Tweaks
+Description: Kinemasterv2
+Author: Eskaseptian
+Name: Kinemaster++ v2
+
+Package: com.eskaseptian.liewpppremium
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.liewpppremium_0.0.1-1+debug_iphoneos-arm.deb
+Size: 9394
+MD5sum: 6ba209722aa60107587d3ae0948a36fb
+SHA1: bceb2c12c5c74f5a9fc25bf2f9ce0f9fac7de22c
+SHA256: 231868f058d802657c324b1ba2fba4956cbb5421cdf408e80e94af6884293cbe
+Section: Tweaks
+Description: unlock PREMIUM !!!
+Author: eskaseptian
+Name: LiveWallpapersFree PREMIUM
+
+Package: com.eskaseptian.lineththeme
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 1040
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.lineththeme_0.0.1-7+debug_iphoneos-arm.deb
+Size: 158870
+MD5sum: 229a7511d45af89f9d45841a03e52784
+SHA1: f157c59f8b22e54de81bd99528978349bec98e85
+SHA256: 70541c66aa825e278e9a8924670ba991188e7413ef83b6008492528eea52338c
+Section: Tweaks
+Description: LINETheme
+Author: eskaseptian
+Name: LINETheme
+
+Package: com.eskaseptian.noads
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Eskaseptian
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.noads_iphoneos-arm.deb
+Size: 7188
+MD5sum: 141bebb25429fbc190bb300f7452f08b
+SHA1: d4a6c0924eec4e02f2260c2647e8591efe3a9bc6
+SHA256: 7027110026e46ff7e5410218cd61ae8ae1122fc2767dc197a68460f406c9c75b
+Section: Tweaks
+Description: NoAds Universal for Apps. *Note: May Not Load Page or App CRASH!!
+Author: Eskaseptian
+Name: NoAds Universal
+
+Package: com.eskaseptian.overvidio
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.overvidio_0.0.1-1+debug_iphoneos-arm.deb
+Size: 125986
+MD5sum: 80ed47936777adc83fa6dae30a201067
+SHA1: 02cffbc08d818a96cfba60e5141f30b0eaa6eb8f
+SHA256: 6796bfd4cd73977121f7768c4eb5cac2c5d3f3710c2bcb5889c19396614ee88d
+Section: Tweaks
+Description: OverVideoHack
+Author: eskaseptian
+Name: OverVideo Hack
+
+Package: com.eskaseptian.pdfexpert7
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.pdfexpert7_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126280
+MD5sum: 9cfa3fd008b7ef43f2495b675347e627
+SHA1: 2b492a9095105d8f5d0af7afd58d69f2a21eac1c
+SHA256: a90317441e15d646facf48aba5811bd02ebe37d99f83932a1c0be8a2d2800d2f
+Section: Tweaks
+Description: PDFExpert7PRO Enabled!
+Author: eskaseptian
+Name: PDF Expert 7 PRO
+
+Package: com.eskaseptian.qrreader
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 720
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.qrreader_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126802
+MD5sum: a44a4dc2035adc614d32d38063292d68
+SHA1: 5a7e7ebab49ebe875e59a08dc40de0c44703fd86
+SHA256: 3da8205a1119b58a944e2a4c985bdb564243de60b9acfd0a6859900e586993e4
+Section: Tweaks
+Description: QRReaderHack Enable PRO Version!
+Author: eskaseptian
+Name: QR Reader Hack
+
+Package: com.eskaseptian.recmusrik
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.recmusrik_0.0.2-1+debug_iphoneos-arm.deb
+Size: 3252
+MD5sum: 050f739cb45a56520040bf267ddbd2d1
+SHA1: 30f442cb2615f0b6ba27b3c143acf9ad7a730196
+SHA256: 7bf4be36348bc735805356e0684f0564ba357edad9952e528957d03b1c7fd83f
+Section: Tweaks
+Description: RecordMusic On Screen! No Mute
+Author: eskaseptian
+Name: RecordMusic
+
+Package: com.eskaseptian.ripl
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Eskaseptian
+Installed-Size: 740
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.ripl_0.0.1-1+debug_iphoneos-arm.deb
+Size: 127386
+MD5sum: 4819728bc901260750a931bca4af6c84
+SHA1: 9de56a5f9c76f5a41cdab9f258e2b126f5ad7fea
+SHA256: 1bbd099448e1991afac25d04b03d7d392dcd5ae24f54c7f032aeea4b9ae67b54
+Section: Tweaks
+Description: RiplPRO
+Author: Eskaseptian
+Name: Ripl PRO
+
+Package: com.eskaseptian.skoutprem
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 724
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.skoutprem_0.0.1-1+debug_iphoneos-arm.deb
+Size: 127240
+MD5sum: 792cb050275b602695427077ebeab66c
+SHA1: e48e41c52526b9fce2a408505b0719ad3c2a65e8
+SHA256: 784521c37ad7f366f572c510ebc4fc8c67f60f3f822f5405da4918941c837454
+Section: Tweaks
+Description: SKOUTPremium
+Author: eskaseptian
+Name: SKOUT Premium
+
+Package: com.eskaseptian.snapvpn
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.snapvpn_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126062
+MD5sum: c17936f75e1bd5b8a6ed078398ada9ac
+SHA1: 0a53780e4db630f814dfc2d507aea298eedde0f2
+SHA256: 22a8d339f06e5895f38165ea6ad2950cff78d1feb6bc4be3a01b82ac6ac5039f
+Section: Tweaks
+Description: SnapVPNHack
+Author: eskaseptian
+Name: SnapVPN Hack
+
+Package: com.eskaseptian.solovpnhack
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.solovpnhack_0.0.1-3+debug_iphoneos-arm.deb
+Size: 126014
+MD5sum: 66f100ad73a105b80a7b5430bd80a057
+SHA1: c64917ee1a5deea527d609038bca941f52129fd8
+SHA256: 568270579eed1c981b909336cbc9ac9f5d04dcfb33316b1dfc9c7b782c9d5e24
+Section: Tweaks
+Description: SoloVPNHack
+Author: eskaseptian
+Name: SoloVPN Hack
+
+Package: com.eskaseptian.sparkvideo
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 744
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.sparkvideo_0.0.1-4+debug_iphoneos-arm.deb
+Size: 128392
+MD5sum: c6ba38fca17ca4af4570efa0543e3c22
+SHA1: dad63f41e40edcd9f5c5876adeac5118f52c339a
+SHA256: 9b0ef89ebbaeae7ceaf8a0b571a3aed56e165935a7720a33423b7ba2678c6b3e
+Section: Tweaks
+Description: AdobeSparkVideo Lifetime subs!
+Author: eskaseptian
+Name: AdobeSpark Video+
+
+Package: com.eskaseptian.strike
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.strike_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126068
+MD5sum: b1ee3507b221c6ba21de08b6b4808cb7
+SHA1: e20885cef9b2af723c9b517865922f68b8656c2b
+SHA256: f1e706a9ce102d6e63b3ea7086ccaff0d198d520faae543ae665730b228367f9
+Section: Tweaks
+Description: StrikeWriterHack Unlock PRO
+Author: eskaseptian
+Name: Strike Writer Hack
+
+Package: com.eskaseptian.supervpn
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.supervpn_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126096
+MD5sum: 5cc72d38f68106445762304bca033d97
+SHA1: 751c6222f3c274e1bad77af1cb9dff2cf161b6a1
+SHA256: 5a81c8bb615458f1df12776a8def8ae9231b1c6791d28a9232bbc6b1dbb2022d
+Section: Tweaks
+Description: SuperVPNHack
+Author: eskaseptian
+Name: SuperVPN Hack
+
+Package: com.eskaseptian.udictionary
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.udictionary_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126618
+MD5sum: a8c87784ce2be67b185ac2a883f95318
+SHA1: ab581632e73eeadabd1fde8d16bd0a7caf1a13a4
+SHA256: e25a8e1b0bc9d3b7e0a1cdb0c6d8f84fa87dd60ee4c33bb73870c5a2520dff72
+Section: Tweaks
+Description: UDictionaryHack PRO
+Author: eskaseptian
+Name: U-Dictionary Hack
+
+Package: com.eskaseptian.vimage
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 740
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.vimage_0.0.1-1+debug_iphoneos-arm.deb
+Size: 127752
+MD5sum: a6ae15053b00c2d54ca66aa8ef498ae6
+SHA1: 75dd936cc4d86c6845bcd07d43c4d0c4880c5605
+SHA256: 4d19fd6fbe8ebe77bb5f6d4cf71a3f34cd5fbb2a1df21e0bb1c50441e287107f
+Section: Tweaks
+Description: VimageHack Remove Watermark And Unlock all Effect!!
+Author: eskaseptian
+Name: Vimage Hack
+
+Package: com.eskaseptian.vpnaegispremium
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.vpnaegispremium_0.0.1-1+debug_iphoneos-arm.deb
+Size: 7044
+MD5sum: 7872e981e568bebb2c15b6b1c6c2397b
+SHA1: b857438aef78ef9aa72d4c27327022287d1da56c
+SHA256: 4cc3192468558d5ad7619c1efd5b739ee148db01c48faac6db6a64f8a5e5555f
+Section: Tweaks
+Description: Unlock Premium
+Author: eskaseptian
+Name: VPNAegis Premium
+
+Package: com.eskaseptian.windypro
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 724
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.windypro_0.0.1-1+debug_iphoneos-arm.deb
+Size: 127438
+MD5sum: 9c660d84bc3bdcf22a461e89c6cc6d9a
+SHA1: db3af9cbd7fec61d93e999307dd2342acd612d28
+SHA256: 16c9d56432df4e3e9e9928ba2d87c97e05da288934f683e9a4ba0dc5d8bcb254
+Section: Tweaks
+Description: WINDY[Hack] apps by Windy Weather World.Inc
+Author: eskaseptian
+Name: WINDY-PRO Hack
+
+Package: com.eskaseptian.wishowvpn
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.wishowvpn_0.0.1-1+debug_iphoneos-arm.deb
+Size: 126352
+MD5sum: afc75d993c590f30e9bbf5ca7bdbba04
+SHA1: c94c0dda55196aa4342b16808bb17d36adc88708
+SHA256: 4f2f11befc720532f63a93d0adbfcd8a47e6c5b758ae1499c122d1ab350fead2
+Section: Tweaks
+Description: WishowVPNHack
+Author: eskaseptian
+Name: WishowVPN Hack
+
+Package: com.eskasseptian.tunnelvpn
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.eskasseptian.tunnelvpn_0.0.2-1+debug_iphoneos-arm.deb
+Size: 125818
+MD5sum: 37e15899ddc3329e280c661db9d6b186
+SHA1: bd87771fc7f78f0cdb82cd12923b55715166f3f3
+SHA256: 7b004227cae69f85693a8c8ca1c642e0be93d9dd902172d5a279dc1118ef8797
+Section: Tweaks
+Description: TunnelBearVPNHack (Gunakan TunnelBearVPN Versi 2.14.4)
+Author: eskaseptian
+Name: TunnelBearVPN Hack
+
