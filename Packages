@@ -349,6 +349,22 @@ Description: NoAds Universal for Apps. *Note: May Not Load Page or App CRASH!!
 Author: Eskaseptian
 Name: NoAds Universal
 
+Package: com.eskaseptian.overpp
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Eska Ardianto
+Installed-Size: 768
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.overpp_0.0.1-2+debug_iphoneos-arm.deb
+Size: 132188
+MD5sum: 004fa8b1adb0e3fed42535a1100709b0
+SHA1: ccb7420bb5880e3d90225f84f53faaee2deff7d7
+SHA256: 99a255433025446b9854e22948528fc8899c6217ee54167135118ca9acb112fe
+Section: Tweaks
+Description: Over
+Author: Eska Ardianto
+Name: Over++
+
 Package: com.eskaseptian.overvidio
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
