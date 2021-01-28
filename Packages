@@ -126,6 +126,22 @@ Description: Carbon B&W Unlock all !!!
 Author: eskaseptian
 Name: CarbonB&W Hack
 
+Package: com.eskaseptian.darkroompp
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Eska Ardianto
+Installed-Size: 1504
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.darkroompp_0.0.1-1+debug_iphoneos-arm.deb
+Size: 195622
+MD5sum: 6956042cc2e03c76b094ccc194adee2d
+SHA1: a8ff69148ffb77044ecb3b1a2ac4d2a37fa22245
+SHA256: 6b68672e4d65e6a1b8ee0c853e71f1365229c19306652b0556ca87eda99313cf
+Section: Tweaks
+Description: DarkRoom
+Author: Eska Ardianto
+Name: DarkRoom+
+
 Package: com.eskaseptian.dazzle
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
@@ -157,6 +173,22 @@ Section: Tweaks
 Description: Unlock PRO Version!
 Author: eskaseptian
 Name: EmulsioHack
+
+Package: com.eskaseptian.facetune2pp
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Eska Ardianto
+Installed-Size: 1576
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.facetune2pp_0.0.1-1+debug_iphoneos-arm.deb
+Size: 198598
+MD5sum: 940141681490ef61defd6b3acefea742
+SHA1: cdeed00ecab9fdcd6e09457a86a1da715721ecef
+SHA256: 0ed70c085b9c8323f8b5235a2362c0c378210e8f442e07c5844e349c1c4afbae
+Section: Tweaks
+Description: Enable Subscription Version
+Author: Eska Ardianto
+Name: Facetune 2 Hack
 
 Package: com.eskaseptian.filterloop
 Version: 0.0.1-3+debug
