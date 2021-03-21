@@ -14,6 +14,22 @@ Description: Over
 Author: Eskaseptian
 Name: Over++
 
+Package: com.eskaitech.jeniusbepas
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaitech.jeniusbepas_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4206
+MD5sum: 901654fcbd42b91d4d0ef27fec8150ab
+SHA1: 9e9565f833d758f45bb36e17329277dca46b5daf
+SHA256: dd1302056fc576a0386c7268f1a4205f03e5183424849b0ddb5e55c4d7d5241c
+Section: Tweaks
+Description: bypass Jenius JB detection
+Author: eskaseptian
+Name: JeniusBepas
+
 Package: com.eskasaep.koloro
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -365,6 +381,22 @@ Section: Tweaks
 Description: LINETheme
 Author: eskaseptian
 Name: LINETheme
+
+Package: com.eskaseptian.mandiribepas
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Eska Ardianto
+Installed-Size: 1484
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.mandiribepas_0.0.1-2+debug_iphoneos-arm.deb
+Size: 199450
+MD5sum: 1a4999e10167b7c0c7ba93fd1ed26204
+SHA1: c8272fae4ea0d219386b1770952284431b4ae737
+SHA256: 9d40e3e47d11ce52b4c69d87b61cb50b4113227bf6d69bb3eaf7e791ae31fb82
+Section: Tweaks
+Description: Mandiri Online Bypass JB Detection
+Author: Eska Ardianto
+Name: MandiriOnline Bypass
 
 Package: com.eskaseptian.noads
 Version: 1
