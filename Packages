@@ -398,6 +398,22 @@ Description: Mandiri Online Bypass JB Detection
 Author: Eska Ardianto
 Name: MandiriOnline Bypass
 
+Package: com.eskaseptian.newlivin
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 1468
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.newlivin_0.0.1-2+debug_iphoneos-arm.deb
+Size: 188610
+MD5sum: 22eb7c9e145b125303ff64c7391c5708
+SHA1: c9c308ac1f2642a53f490c8c4ba238a6dbd5f04d
+SHA256: 5978f9a8d3b1c7ff0ea4907afb831d9644f5803613770be492fadfc728ea1e2e
+Section: Tweaks
+Description: NewLivin
+Author: eskaseptian
+Name: NewLivin
+
 Package: com.eskaseptian.noads
 Version: 1
 Architecture: iphoneos-arm
