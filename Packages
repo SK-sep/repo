@@ -669,6 +669,22 @@ Description: Unlock Premium
 Author: eskaseptian
 Name: VPNAegis Premium
 
+Package: com.eskaseptian.wahanahonda
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: eskaseptian
+Installed-Size: 1464
+Depends: mobilesubstrate
+Filename: ./debs/com.eskaseptian.wahanahonda_0.0.1-1+debug_iphoneos-arm.deb
+Size: 186536
+MD5sum: e8aee06fe6a536770d8a3bd9bce14d92
+SHA1: fd84abf4c2e9934a293c950c190fe1284ca6529b
+SHA256: 2ef7ee285c5cbd9bd64629d1784eaf0d7424b3db927318a831ca823a72a921ce
+Section: Tweaks
+Description: WahanaHondaBypassJB
+Author: eskaseptian
+Name: WahanaHonda BypassJB
+
 Package: com.eskaseptian.windypro
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
